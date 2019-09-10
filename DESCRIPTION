@@ -1,0 +1,21 @@
+Type: Compendium
+Package: git_staRk
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "Dom",
+           family = "Acri",
+           role = c("aut", "cre"),
+           email = "dominic.acri@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Learn R for Beginners, Stark 2019 Edition
+License: What license it uses
+Depends: 
+    tidyverse,
+    psych,
+    skimr,
+    broom,
+    jmv,
+    ggstatsplot
+Encoding: UTF-5
+LazyData: true
